@@ -1,0 +1,27 @@
+校验方式：
+一、备份时的输出，tar无错误输出
+
+二、diff检查源文件与备份文件输出的ls文件
+1、原文件
+find /opt/gnode/userdata/gbase -name "*"|xargs ls -ld --time-style="+%F %H:%M"|grep -v '^d'|grep -v '\/gctmpdb\/' |grep -v "db.opt"|awk '{print $1,$3"/"$4,$5,$6,$7,$8}'|sed 's/\/opt/opt/1'|sort -k6,6>/home/gbase/find_file.txt
+
+2、tar文件
+mkdir -p /home/gbase/tar_file_dir
+find /opt/backup_20140306/ -name "*.tgz"|grep -v gcluster.tgz|while read tgz_file
+ do 
+ while [ 1 ]
+ do
+ 	if [ `ps -ef | grep "tar tvf"|grep -v grep|wc -l` -lt 10 ];then
+ 		tar tvf $tgz_file|grep -v '^d'|awk '{print $1,$2,$3,$4,$5,$6}'>/home/gbase/tar_file_dir/`basename $tgz_file|awk -F '.' '{print $1}'`.txt
+ 		break
+	 else
+ 		sleep 1
+	 fi
+	done
+done
+
+cat /home/gbase/tar_file_dir/*.txt|sort -k6,6>/home/gbase/tar_file_show2.txt
+3、比较
+diff /home/gbase/tar_file_show2.txt /home/gbase/find_file.txt
+
+

@@ -1,0 +1,9 @@
+destination diretory is :/bak/20140224_backup
+tar czf /bak/20140224_backup/dwgd/metadata/bd_00dt_idv_cust_basic_info_h_n27_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/bd_00dt_idv_cust_basic_info_h_n27.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/bd_00dt_idv_cust_basic_info_h_n27_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/bd_00dt_idv_cust_basic_info_h_n27 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/metadata/bd_00dt_idv_cust_basic_info_h_n28_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/bd_00dt_idv_cust_basic_info_h_n28.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/bd_00dt_idv_cust_basic_info_h_n28_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/bd_00dt_idv_cust_basic_info_h_n28 
+tar: 从成员名中删除开头的“/”

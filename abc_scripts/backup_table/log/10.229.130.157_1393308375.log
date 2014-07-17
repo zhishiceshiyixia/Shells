@@ -1,0 +1,202 @@
+backup table dwgd.lh_00boe_ar_cp_ints_var_50 start!
+destination diretory is :/bak/20140224_backup
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_ints_var_50_n20_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_ints_var_50_n20.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_ints_var_50_n20_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_ints_var_50_n20 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_ints_var_50_n19_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_ints_var_50_n19.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_ints_var_50_n19_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_ints_var_50_n19 
+tar: 从成员名中删除开头的“/”
+backup table dwgd.lh_00boe_ar_cp_ints_var_50 end!
+backup table dwgd.lh_00boe_ar_cp_ints_var_51 start!
+destination diretory is :/bak/20140224_backup
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_ints_var_51_n20_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_ints_var_51_n20.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_ints_var_51_n20_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_ints_var_51_n20 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_ints_var_51_n19_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_ints_var_51_n19.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_ints_var_51_n19_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_ints_var_51_n19 
+tar: 从成员名中删除开头的“/”
+backup table dwgd.lh_00boe_ar_cp_ints_var_51 end!
+backup table dwgd.lh_00boe_ar_cp_ints_var_56 start!
+destination diretory is :/bak/20140224_backup
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_ints_var_56_n20_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_ints_var_56_n20.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_ints_var_56_n20_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_ints_var_56_n20 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_ints_var_56_n19_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_ints_var_56_n19.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_ints_var_56_n19_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_ints_var_56_n19 
+tar: 从成员名中删除开头的“/”
+backup table dwgd.lh_00boe_ar_cp_ints_var_56 end!
+backup table dwgd.lh_00boe_ar_cp_ints_var_57 start!
+destination diretory is :/bak/20140224_backup
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_ints_var_57_n20_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_ints_var_57_n20.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_ints_var_57_n20_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_ints_var_57_n20 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_ints_var_57_n19_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_ints_var_57_n19.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_ints_var_57_n19_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_ints_var_57_n19 
+tar: 从成员名中删除开头的“/”
+backup table dwgd.lh_00boe_ar_cp_ints_var_57 end!
+backup table dwgd.lh_00boe_ar_cp_ints_var_58 start!
+destination diretory is :/bak/20140224_backup
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_ints_var_58_n20_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_ints_var_58_n20.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_ints_var_58_n20_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_ints_var_58_n20 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_ints_var_58_n19_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_ints_var_58_n19.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_ints_var_58_n19_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_ints_var_58_n19 
+tar: 从成员名中删除开头的“/”
+backup table dwgd.lh_00boe_ar_cp_ints_var_58 end!
+backup table dwgd.lh_00boe_ar_cp_ints_var_62 start!
+destination diretory is :/bak/20140224_backup
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_ints_var_62_n20_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_ints_var_62_n20.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_ints_var_62_n20_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_ints_var_62_n20 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_ints_var_62_n19_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_ints_var_62_n19.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_ints_var_62_n19_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_ints_var_62_n19 
+tar: 从成员名中删除开头的“/”
+backup table dwgd.lh_00boe_ar_cp_ints_var_62 end!
+backup table dwgd.lh_00boe_ar_cp_vlu_50 start!
+destination diretory is :/bak/20140224_backup
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_vlu_50_n20_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_vlu_50_n20.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_50_n20_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_50_n20 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_vlu_50_n19_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_vlu_50_n19.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_50_n19_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_50_n19 
+tar: 从成员名中删除开头的“/”
+backup table dwgd.lh_00boe_ar_cp_vlu_50 end!
+backup table dwgd.lh_00boe_ar_cp_vlu_51 start!
+destination diretory is :/bak/20140224_backup
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_vlu_51_n20_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_vlu_51_n20.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_51_n20_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_51_n20 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_vlu_51_n19_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_vlu_51_n19.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_51_n19_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_51_n19 
+tar: 从成员名中删除开头的“/”
+backup table dwgd.lh_00boe_ar_cp_vlu_51 end!
+backup table dwgd.lh_00boe_ar_cp_vlu_56 start!
+destination diretory is :/bak/20140224_backup
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_vlu_56_n20_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_vlu_56_n20.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_56_n20_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_56_n20 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_vlu_56_n19_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_vlu_56_n19.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_56_n19_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_56_n19 
+tar: 从成员名中删除开头的“/”
+backup table dwgd.lh_00boe_ar_cp_vlu_56 end!
+backup table dwgd.lh_00boe_ar_cp_vlu_57 start!
+destination diretory is :/bak/20140224_backup
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_vlu_57_n20_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_vlu_57_n20.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_57_n20_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_57_n20 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_vlu_57_n19_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_vlu_57_n19.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_57_n19_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_57_n19 
+tar: 从成员名中删除开头的“/”
+backup table dwgd.lh_00boe_ar_cp_vlu_57 end!
+backup table dwgd.lh_00boe_ar_cp_vlu_58 start!
+destination diretory is :/bak/20140224_backup
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_vlu_58_n20_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_vlu_58_n20.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_58_n20_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_58_n20 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_vlu_58_n19_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_vlu_58_n19.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_58_n19_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_58_n19 
+tar: 从成员名中删除开头的“/”
+backup table dwgd.lh_00boe_ar_cp_vlu_58 end!
+backup table dwgd.lh_00boe_ar_cp_vlu_62 start!
+destination diretory is :/bak/20140224_backup
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_vlu_62_n20_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_vlu_62_n20.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_62_n20_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_62_n20 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_vlu_62_n19_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_vlu_62_n19.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_62_n19_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_62_n19 
+tar: 从成员名中删除开头的“/”
+backup table dwgd.lh_00boe_ar_cp_vlu_62 end!
+backup table dwgd.lh_00boe_ar_cp_vlu_hist_45 start!
+destination diretory is :/bak/20140224_backup
+The table dwgd.lh_00boe_ar_cp_vlu_hist_45 is not exists!
+backup table dwgd.lh_00boe_ar_cp_vlu_hist_45 end!
+backup table dwgd.lh_00boe_ar_cp_vlu_hist_50 start!
+destination diretory is :/bak/20140224_backup
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_vlu_hist_50_n20_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_vlu_hist_50_n20.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_hist_50_n20_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_hist_50_n20 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_vlu_hist_50_n19_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_vlu_hist_50_n19.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_hist_50_n19_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_hist_50_n19 
+tar: 从成员名中删除开头的“/”
+backup table dwgd.lh_00boe_ar_cp_vlu_hist_50 end!
+backup table dwgd.lh_00boe_ar_cp_vlu_hist_51 start!
+destination diretory is :/bak/20140224_backup
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_vlu_hist_51_n20_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_vlu_hist_51_n20.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_hist_51_n20_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_hist_51_n20 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_vlu_hist_51_n19_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_vlu_hist_51_n19.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_hist_51_n19_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_hist_51_n19 
+tar: 从成员名中删除开头的“/”
+backup table dwgd.lh_00boe_ar_cp_vlu_hist_51 end!
+backup table dwgd.lh_00boe_ar_cp_vlu_hist_56 start!
+destination diretory is :/bak/20140224_backup
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_vlu_hist_56_n20_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_vlu_hist_56_n20.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_hist_56_n20_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_hist_56_n20 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_vlu_hist_56_n19_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_vlu_hist_56_n19.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_hist_56_n19_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_hist_56_n19 
+tar: 从成员名中删除开头的“/”
+backup table dwgd.lh_00boe_ar_cp_vlu_hist_56 end!
+backup table dwgd.lh_00boe_ar_cp_vlu_hist_57 start!
+destination diretory is :/bak/20140224_backup
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_vlu_hist_57_n20_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_vlu_hist_57_n20.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_hist_57_n20_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_hist_57_n20 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_vlu_hist_57_n19_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_vlu_hist_57_n19.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_hist_57_n19_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_hist_57_n19 
+tar: 从成员名中删除开头的“/”
+backup table dwgd.lh_00boe_ar_cp_vlu_hist_57 end!
+backup table dwgd.lh_00boe_ar_cp_vlu_hist_58 start!
+destination diretory is :/bak/20140224_backup
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_vlu_hist_58_n20_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_vlu_hist_58_n20.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_hist_58_n20_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_hist_58_n20 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_vlu_hist_58_n19_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_vlu_hist_58_n19.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_hist_58_n19_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_hist_58_n19 
+tar: 从成员名中删除开头的“/”
+backup table dwgd.lh_00boe_ar_cp_vlu_hist_58 end!
+backup table dwgd.lh_00boe_ar_cp_vlu_hist_62 start!
+destination diretory is :/bak/20140224_backup
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_vlu_hist_62_n20_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_vlu_hist_62_n20.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_hist_62_n20_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_hist_62_n20 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/metadata/lh_00boe_ar_cp_vlu_hist_62_n19_meta.tgz /opt/gnode/userdata/gbase/dwgd/metadata/lh_00boe_ar_cp_vlu_hist_62_n19.* 
+tar: 从成员名中删除开头的“/”
+tar czf /bak/20140224_backup/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_hist_62_n19_data.tgz /opt/gnode/userdata/gbase/dwgd/sys_tablespace/lh_00boe_ar_cp_vlu_hist_62_n19 
+tar: 从成员名中删除开头的“/”
+backup table dwgd.lh_00boe_ar_cp_vlu_hist_62 end!
