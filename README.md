@@ -1,2 +1,2 @@
-Shell
+Shell scripts
 ======
