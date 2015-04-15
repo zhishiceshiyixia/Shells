@@ -1,4 +1,4 @@
-!/bin/bash
+#!/bin/bash
 ##--------------------------------------------##
 #Creater: Nie Dan
 #Create Data: 2014-5-30
